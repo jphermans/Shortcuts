@@ -1,0 +1,1 @@
+Give an amount of values and this shortcut will make some statistics.  
