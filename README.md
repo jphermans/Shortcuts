@@ -18,3 +18,6 @@ When created by me it will be mentioned and if not other credits goes to origina
 14) IMDB
 15) Multiple Alarms
 16) Binary Translator
+17) Useful Things3 shortcuts
+18) Working Copy shortcuts
+19) Tweakers Pricewatch
