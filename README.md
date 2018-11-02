@@ -15,3 +15,6 @@ When created by me it will be mentioned and if not other credits goes to origina
 11) Bedtijd
 12) TV aan
 13) Wake-up
+14) IMDB
+15) Multiple Alarms
+16) Binary Translator

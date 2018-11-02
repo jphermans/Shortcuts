@@ -1,0 +1,1 @@
+A shortcut to search for info on IMDB movie database. This is not made by me. 
